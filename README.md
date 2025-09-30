@@ -1,4 +1,11 @@
-## Langages de programmation que je maîtrise
+## Technologies que je maîtrise
+
+- Java
+- C
+- C# (Visual Studio, .NET)
+- PHP
+- Python
+- SQL (Oracle, Postgre, SQLite) 
 
 ### À propos de moi
 <!--
