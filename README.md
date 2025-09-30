@@ -1,5 +1,6 @@
-## Hi there 👋
+## Langages de programmation que je maîtrise
 
+### À propos de moi
 <!--
 **ferencz49/ferencz49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
