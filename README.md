@@ -1,19 +1,24 @@
 ## Technologies que je maîtrise
+<p align="center" style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "Java" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "C#" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python " width="50" />
+    SQL
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" title="Oracle" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostGre" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="50" />
+</p>
 
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "Java" width="30" />
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C" width="30" />
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "C#" width="30" />
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP" width="30" />
--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python " width="30" />
--  SQL
 ## Langues parlées
 <p align="center" style="display: inline;">
     <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="francais" width="30">
     <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="allemand" width="30">
     <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" title="anglais" width="30">
     <img src="https://flagicons.lipis.dev/flags/4x3/sk.svg" title="slovaque" width="30">
-
-
 </p>
 
 ## À propos de moi
