@@ -5,7 +5,17 @@
 - C# (Visual Studio, .NET)
 - PHP
 - Python
-- SQL (Oracle, Postgre, SQLite) 
+- SQL (Oracle, Postgre, SQLite)
+
+## Langues parlées
+<p align="center" style="display: inline;">
+    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="francais" width="30"></a>
+    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="allemand" width="30"></a>
+    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/us.svg" title="anglais" width="24"></a>
+    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/sk.svg" title="slovaque" width="30"></a>
+
+
+</p>
 
 ## À propos de moi
 
