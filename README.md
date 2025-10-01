@@ -1,18 +1,17 @@
 ## Technologies que je maîtrise
 
-- Java
-- C
-- C# (Visual Studio, .NET)
-- PHP
-- Python
-- SQL (Oracle, Postgre, SQLite)
-
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title = "Java" width="30" />
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title = "C" width="30" />
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title = "C#" width="30" />
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title = "PHP" width="30" />
+-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title = "Python " width="30" />
+-  SQL
 ## Langues parlées
 <p align="center" style="display: inline;">
-    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="francais" width="30"></a>
-    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="allemand" width="30"></a>
-    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/us.svg" title="anglais" width="24"></a>
-    <a href="https://www.transifex.com/aimeos/"><img src="https://flagicons.lipis.dev/flags/4x3/sk.svg" title="slovaque" width="30"></a>
+    <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="francais" width="30">
+    <img src="https://flagicons.lipis.dev/flags/4x3/de.svg" title="allemand" width="30">
+    <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" title="anglais" width="30">
+    <img src="https://flagicons.lipis.dev/flags/4x3/sk.svg" title="slovaque" width="30">
 
 
 </p>
