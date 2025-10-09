@@ -25,6 +25,15 @@ Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
 
  **Technologies utilisées** : Java, POO, GIT
 
+ ### Projet personnel – Jeu Football Manager (Java)
+
+Tentative de reproduction simplifiée du jeu **Football Manager** en **Java**, avec :
+- choix d'une équipe parmi les équipes de Ligue 1
+- simulation de matchs
+- entraîneur personnalisé
+
+ **Technologies utilisées** : Java, POO, GIT
+
 ## Langues parlées
 <p align="center" style="display: inline;">
     <img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" title="francais" width="30">
