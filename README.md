@@ -12,8 +12,18 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite" width="50" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" width="50" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" width="50" />
-
 </p>
+
+## Mes projets
+
+### Projet Universitaire – Jeu Donjons et Dragons (Java)
+
+Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
+- Un système de combat au tour par tour
+- plusieurs cartes
+- La gestion de personnages personnalisables (MJ, joueurs)
+
+ **Technologies utilisées** : Java, POO, GIT
 
 ## Langues parlées
 <p align="center" style="display: inline;">
