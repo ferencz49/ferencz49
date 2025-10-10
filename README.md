@@ -44,11 +44,6 @@ Je lis principalement des oeuvres de science-fiction, de fantasy mais aussi des 
 
 ### Projet Universitaire – Jeu Donjons et Dragons (Java)
 
-Conception d’un jeu inspiré de **Donjons et Dragons** en **Java**, avec :
-- Un système de combat au tour par tour
-- plusieurs cartes
-- La gestion de personnages personnalisables (MJ, joueurs)
-
  **Technologies utilisées** : Java, POO, GIT
 
  ### Projet personnel – Jeu Football Manager (Java)
