@@ -48,11 +48,6 @@ Je lis principalement des oeuvres de science-fiction, de fantasy mais aussi des 
 
  ### Projet personnel – Jeu Football Manager (Java)
 
-Tentative de reproduction simplifiée du jeu **Football Manager** en **Java**, avec :
-- choix d'une équipe parmi les équipes de Ligue 1
-- simulation de matchs
-- entraîneur personnalisé
-
  **Technologies utilisées** : Java, POO, GIT
 
 
