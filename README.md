@@ -52,6 +52,8 @@ Je lis principalement des oeuvres de science-fiction, de fantasy mais aussi des 
 
  **Technologies utilisées** : Java, POO, GIT
 
+ ![](https://komarev.com/ghpvc/?username=your-github-username&base=60&color=blue)
+
 
 <!--
 **ferencz49/ferencz49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
